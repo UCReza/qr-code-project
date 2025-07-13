@@ -1,0 +1,9 @@
+Project: QR Code Generator
+Files:
+- generate_qr.py (Python script to generate QR code)
+- my_qr_code.png (example output image)
+
+Python version: 3.13.5
+Libraries: qrcode
+Environment: macOS with Python virtual environment (venv)
+Instructions: Activate venv, run 'python generate_qr.py' to generate QR code image.
